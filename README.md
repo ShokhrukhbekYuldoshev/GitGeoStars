@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Git Geo Stars
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+Git Geo Stars is a web application that allows you to find the top GitHub users by location. You can search for users in a specific location and see their details such as their login name, avatar, and followers count.
+
+## Features
+
+-   Search for users by location
+-   View user details including avatar, login name, and followers count
+-   Navigate to the user's GitHub profile
+
+## Installation
+
+To install the application, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/ShokhrukhbekYuldoshev/GitGeoStars.git
+cd GitGeoStars
+npm install
+```
+
+## Usage
+
+To start the application, run the following command:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, open your browser and navigate to `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🤝 Contributing
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Contributions, issues and feature requests are welcome!
 
-## Learn More
+## 📝 License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 👨‍💻 Author
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+**Shokhrukhbek Yuldoshev**
 
-## Deploy on Vercel
+-   Github: [@ShokhrukhbekYuldoshev](https://github.com/ShokhrukhbekYuldoshev)
+-   Email: [@shokhrukhbekdev@gmail.com](mailto:shokhrukhbekdev@gmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌟 Show your support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Give a ⭐️ if you like this project!
