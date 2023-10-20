@@ -7,7 +7,7 @@ export default function Home() {
                 Rank GitHub users by location
             </h1>
             <p className='text-center'>
-                Search for a location and see the top 100 GitHub users in that
+                Search for a location and see the top 30 GitHub users in that
                 area.
             </p>
             <div className='flex justify-center mt-8'>
