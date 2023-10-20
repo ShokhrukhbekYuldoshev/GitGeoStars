@@ -22,7 +22,7 @@ export default function About() {
             <h2 className='text-2xl font-bold mb-6'>Source Code</h2>
             <p className='text-gray-300 mb-6'>
                 <Link
-                    href='https://github.com/SkokhrukhbekYuldoshev/GitGeoStars'
+                    href='https://github.com/ShokhrukhbekYuldoshev/GitGeoStars'
                     className='text-blue-500 hover:text-blue-700'
                     target='_blank'
                 >
