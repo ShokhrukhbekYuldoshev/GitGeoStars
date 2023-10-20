@@ -45,7 +45,9 @@ export default function Search() {
 
     return (
         <div className='container mx-auto px-4 sm:px-12 py-10'>
-            <h1 className='text-4xl font-bold mb-6'>Search GitHub Users</h1>
+            <h1 className='text-4xl font-bold mb-6'>
+                Search GitHub Users by Location
+            </h1>
             <form onSubmit={handleSearch} className='mb-10'>
                 <input
                     type='text'
